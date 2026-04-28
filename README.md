@@ -5,5 +5,4 @@ Computer Science student at Saint Mary's University of Minnesota, focusing on So
 
 *   🌍  I'm based in Winona, MN
 *   ✉️  You can contact me at [abric.1618@gmail.com](mailto:abric.1618@gmail.com)
-*   🚀  I'm currently working on [Kreyer's Tree Service](http://keryerstreeservice.com)
 *   ⚡  NCAA All-American Scholar Men's Ice Hockey
